@@ -1,0 +1,2 @@
+# testdemo_redis_DM5_insert_page_token
+testdemo项目下实现加密、数据库增删改查、token认证基础上嵌入redis
